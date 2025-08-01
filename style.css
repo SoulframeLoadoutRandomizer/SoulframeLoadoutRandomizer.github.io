@@ -1,0 +1,47 @@
+body {
+    background-color: #121212;
+    color: #00ff00;
+    font-family: monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 2rem;
+}
+
+.section {
+    margin-bottom: 1.5rem;
+}
+
+.item-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 2em; /* Ensure container has a minimum height */
+}
+
+.reroll-btn {
+    background-color: #00ff00;
+    color: #121212;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+a {
+    color: #00ff00;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
