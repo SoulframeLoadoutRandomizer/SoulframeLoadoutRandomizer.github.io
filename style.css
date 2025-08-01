@@ -3,20 +3,18 @@ body {
     color: #66cc66; /* Softer green text */
     font-family: monospace;
     display: flex;
+    flex-direction: column; /* Arrange children vertically */
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    min-height: 100vh;
     margin: 0;
 }
 
-.main-content {
+.container {
     background-color: #333333; /* Lighter grey rectangle */
     padding: 2rem;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
-}
-
-.container {
     text-align: center;
 }
 

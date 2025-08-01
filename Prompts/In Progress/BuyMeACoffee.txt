@@ -9,3 +9,9 @@ It should look like this and be below the app in the same style as the applicati
                 ☕ Buy me a coffee
             </a>
         </div>
+
+-----------------------------------------------------------------------------
+
+Please move the buy me a coffee link under the main container and centered under the container.
+
+-----------------------------------------------------------------------------

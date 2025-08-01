@@ -13,6 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const rerollArmorBtn = document.getElementById('reroll-armor');
     const rerollPrimaryBtn = document.getElementById('reroll-primary');
     const rerollSecondaryBtn = document.getElementById('reroll-secondary');
+    const generateLoadoutBtn = document.getElementById('generate-loadout');
 
     let data = {};
 
