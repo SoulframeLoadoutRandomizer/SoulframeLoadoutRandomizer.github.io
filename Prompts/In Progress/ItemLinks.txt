@@ -1,0 +1,1 @@
+Currently, when a value is rolled, only the item names are listed, not the item links. Please add next to the generated values the text "(link)", which contains a link to that item's avakot page from randomizer.json.
