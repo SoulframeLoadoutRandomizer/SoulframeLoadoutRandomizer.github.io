@@ -1,0 +1,1 @@
+I want to add a buy me a coffee link to this application. Using exampleApp, find the buy me a coffee link and add a buy me a coffee link to index.html with a similar style and the same functionality as exampleApp.
