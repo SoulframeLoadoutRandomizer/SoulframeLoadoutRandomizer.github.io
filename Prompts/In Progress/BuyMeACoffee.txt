@@ -1,0 +1,11 @@
+I want to add a buy me a coffee link to this application. Using https://grimdawncharacterrandomizer.github.io/ as an example, 
+find the buy me a coffee link and add a buy me a coffee link to index.html with a similar style and the same functionality as https://grimdawncharacterrandomizer.github.io/.
+
+--------------------------------------------------------------------------------------------
+
+It should look like this and be below the app in the same style as the application as a whole. 
+<div class="coffee-link">
+            <a href="https://buymeacoffee.com/EnigmaMachineDev" target="_blank" rel="noopener noreferrer">
+                ☕ Buy me a coffee
+            </a>
+        </div>

@@ -31,17 +31,27 @@ h1 {
 .item-container {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between; /* Changed from center to space-between */
     min-height: 2em; /* Ensure container has a minimum height */
 }
 
 .reroll-btn {
-    background-color: #66cc66; /* Softer green background */
-    color: #333333; /* Dark grey text */
-    border: none;
+    background: none; /* Removed background color */
+    color: #66cc66; /* Softer green text */
+    border: 1px solid #66cc66; /* Softer green border */
     padding: 5px 10px;
     cursor: pointer;
     margin-left: 10px;
+    border-radius: 50%; /* Make the button circular */
+    width: 30px; /* Set a fixed width */
+    height: 30px; /* Set a fixed height */
+    font-size: 1.2em; /* Increase font size for the symbol */
+    line-height: 1; /* Adjust line height for centering */
+}
+
+.reroll-btn:hover {
+    background-color: #444;
+    border-color: #888;
 }
 
 a {
@@ -51,4 +61,9 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+
+.coffee-link {
+    text-align: center;
+    margin-top: 2rem;
 }

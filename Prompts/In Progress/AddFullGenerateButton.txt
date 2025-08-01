@@ -1,0 +1,1 @@
+The reroll buttons are working, but I also want a button above all of them that generates an entire loadout, not just the reroll buttons. It should roll every different field.

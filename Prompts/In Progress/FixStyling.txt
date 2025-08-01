@@ -1,0 +1,5 @@
+Currently, the reroll buttons are in the same rows as the text, and it is all centered, and everything changes position when the reroll buttons are clicked because they are on the same row.
+
+Instead of this, change it to be more like individual sections for each roll. Then the reroll button should be in a fixed position to the right of the section it rerolls.
+
+Also change the reroll button style to match the style of the reroll buttons on this site: https://grimdawncharacterrandomizer.github.io/. You can use that site as an example for the other changes as well.

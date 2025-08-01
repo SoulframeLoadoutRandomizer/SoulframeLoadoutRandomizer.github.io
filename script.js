@@ -45,4 +45,5 @@ document.addEventListener('DOMContentLoaded', () => {
     rerollArmorBtn.addEventListener('click', () => setItem(armorEl, armorLink, 'Armor'));
     rerollPrimaryBtn.addEventListener('click', () => setItem(primaryEl, primaryLink, 'Primary'));
     rerollSecondaryBtn.addEventListener('click', () => setItem(secondaryEl, secondaryLink, 'Secondary'));
+    generateLoadoutBtn.addEventListener('click', randomizeAll);
 });
