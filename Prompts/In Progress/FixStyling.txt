@@ -25,3 +25,7 @@ Your previous change did aboslutely nothing. Please change the app according to 
 3. The Generate Loadout button is way too small for the text in it. Change this button to be a rectangular button that holds the text in it.
 
 4. The reroll icons are not centered inside of the circular buttons they are in. Please fix that.
+
+-----------------------------------------------------------------------------
+
+You fixed most of the styling issues but reintroduced an issue you fixed earlier. The reroll buttons should be next to the HEADINGS, not the text. They SHOULD NOT MOVE when they are clicked. 
