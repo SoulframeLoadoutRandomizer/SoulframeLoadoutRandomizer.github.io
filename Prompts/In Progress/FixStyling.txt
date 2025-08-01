@@ -7,3 +7,9 @@ Also change the reroll button style to match the style of the reroll buttons on 
 -----------------------------------------------------------------------------
 
 Currently the text and reroll buttons are in the same sections. Move the reroll buttons up to be next to the section headers, that way when they are clicked they do not change position.
+
+-----------------------------------------------------------------------------
+
+Now the reroll buttons and the text for the rolled values are correct, but the headers are still centered. This created a very odd look. Please Move the headers to the left just like the generated text they label, and put dividing lines between each section.
+Also, the Generate Loadout button is way too small for the text in it. Change this button to be a rectangular button that holds the text in it.
+Also, the reroll icons are not centered inside of the circular buttons they are in. Please fix that.
