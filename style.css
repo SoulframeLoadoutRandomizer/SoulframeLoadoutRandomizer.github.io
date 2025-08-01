@@ -1,12 +1,19 @@
 body {
-    background-color: #121212;
-    color: #00ff00;
+    background-color: #222222; /* Darker grey background */
+    color: #66cc66; /* Softer green text */
     font-family: monospace;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
     margin: 0;
+}
+
+.main-content {
+    background-color: #333333; /* Lighter grey rectangle */
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
 
 .container {
@@ -29,8 +36,8 @@ h1 {
 }
 
 .reroll-btn {
-    background-color: #00ff00;
-    color: #121212;
+    background-color: #66cc66; /* Softer green background */
+    color: #333333; /* Dark grey text */
     border: none;
     padding: 5px 10px;
     cursor: pointer;
@@ -38,7 +45,7 @@ h1 {
 }
 
 a {
-    color: #00ff00;
+    color: #66cc66; /* Softer green link */
     text-decoration: none;
 }
 
