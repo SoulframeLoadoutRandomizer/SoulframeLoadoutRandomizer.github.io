@@ -57,16 +57,16 @@
       "link": "https://wiki.avakot.org/Items/Weapons/bogmyrtle"
     },
     {
-      "name": "Oryn Umber",
-      "link": "https://wiki.avakot.org/Items/Weapons/orynumber"
+      "name": "Oryn Umbr",
+      "link": "https://wiki.avakot.org/Items/Weapons/oryn-umbr"
     },
     {
       "name": "Rivt-II",
       "link": "https://wiki.avakot.org/Items/Weapons/rivt-ii"
     },
     {
-      "name": "Royal Tines",
-      "link": "https://wiki.avakot.org/Items/Weapons/royaltines"
+      "name": "The Royal Tines",
+      "link": "https://wiki.avakot.org/Items/Weapons/theroyaltines"
     },
     {
       "name": "Unsula",
@@ -76,23 +76,23 @@
   "Secondary": [
     {
       "name": "Precklies",
-      "link": "https://wiki.avakot.org/Items/Weapons/precklies"
+      "link": "https://wiki.avakot.org/Items/Sidearms/precklies"
     },
     {
       "name": "Skilter",
-      "link": "https://wiki.avakot.org/Items/Weapons/skilter"
+      "link": "https://wiki.avakot.org/Items/Sidearms/skilter"
     },
     {
       "name": "Grinn",
-      "link": "https://wiki.avakot.org/Items/Weapons/grinn"
+      "link": "https://wiki.avakot.org/Items/Sidearms/grinn"
     },
     {
       "name": "Nettle",
-      "link": "https://wiki.avakot.org/Items/Weapons/nettle"
+      "link": "https://wiki.avakot.org/Items/Sidearms/nettle"
     },
     {
-      "name": "Vidigris",
-      "link": "https://wiki.avakot.org/Items/Weapons/vidigris"
+      "name": "Virdigris",
+      "link": "https://wiki.avakot.org/Items/Sidearms/virdigris"
     }
   ],
   "Pact": [
@@ -110,7 +110,7 @@
     },
     {
       "name": "Orengall",
-      "link": "https.wiki.avakot.org/Items/Pacts/orengall"
+      "link": "https://wiki.avakot.org/Items/Pacts/orengall"
     },
     {
       "name": "Sirin",
